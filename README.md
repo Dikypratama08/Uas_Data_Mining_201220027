@@ -32,5 +32,5 @@ Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tuju
 
 ## Koreksi 
 * Error (index)
-Di file app.py  #45
+Di file main.py  #45
 
